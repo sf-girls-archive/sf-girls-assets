@@ -26,7 +26,7 @@ git lfs install
 Use the following command to clone the project and download all files:
 
 ```bash
-git clone https://github.com/ox7f/sf-girls-assets.git
+git clone https://github.com/sf-girls-archive/sf-girls-assets.git
 cd sf-girls-assets
 git lfs pull
 ```
